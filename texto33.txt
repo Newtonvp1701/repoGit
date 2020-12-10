@@ -1,0 +1,9 @@
+texto33 criado no github - site do git
+vou clonar no meu repositório local 
+
+estudar os comandos para clonar - git add - git commit - e git push 
+
+ver os status dos arquivos 
+
+ver se tem certificado no curso 
+
