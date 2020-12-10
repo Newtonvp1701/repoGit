@@ -1,0 +1,8 @@
+texto 44 criado no repo local 
+depois git add e git commit e git push 
+no github 
+
+ddddddd
+
+#ddddddd
+
