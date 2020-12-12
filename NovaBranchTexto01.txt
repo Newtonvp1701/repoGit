@@ -1,0 +1,4 @@
+teste para novabranchtexto01.txt
+dar git add.
+dar git push
+ver os os passos para commit
